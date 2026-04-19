@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 304 records |
 | Free sample size | 30 records (9.87%) |
-| Last export | 2026-04-09T12:44:45.828951+00:00 |
+| Last export | 2026-04-16T12:46:31.975149+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-palmdale-california-us-sample-291185/releases/download/sample-latest/beamstation_291185_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
