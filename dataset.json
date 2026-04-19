@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Palmdale, California with a population of over 169k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Palmdale, California, US",
-  "export_job_id": "71409be9-2ecf-4c70-9559-29f1fbb0f312",
+  "export_job_id": "e1ee2dc3-575b-4848-b925-08ed3e487b09",
   "github_org": "Beamstation-Datasets",
   "id_short": 291185,
   "location_name": "Palmdale",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/291185/beamstation_291185_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.87,
   "sample_records": 30,
-  "sample_sha256": "898d3f987dedf2aa067d2e8592a9d65286d4e62bf659413351ea699bedf93216",
-  "sample_size_bytes": 132067,
+  "sample_sha256": "4540c7879bf18b48803985785f418b6a9d0b16dcc311f477e59e734147f0dc78",
+  "sample_size_bytes": 101505,
   "total_records": 304,
-  "updated_at": "2026-04-09T12:44:45.828951+00:00"
+  "updated_at": "2026-04-16T12:46:31.975149+00:00"
 }
