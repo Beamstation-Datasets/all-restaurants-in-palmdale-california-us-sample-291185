@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e1ee2dc3-575b-4848-b925-08ed3e487b09",
+  "export_job_id": "0ee1a1d1-8b17-4ef9-b92f-60d9835173c7",
   "id_short": 291185,
-  "published_at": "2026-04-19T19:29:54Z",
+  "published_at": "2026-04-23T19:34:49Z",
   "repo_name": "all-restaurants-in-palmdale-california-us-sample-291185",
   "sample_asset_name": "beamstation_291185_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/291185/beamstation_291185_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 30,
-  "sample_sha256": "4540c7879bf18b48803985785f418b6a9d0b16dcc311f477e59e734147f0dc78",
-  "sample_size_bytes": 101505,
+  "sample_sha256": "4a5bdccf0c7a71b0c98f3b6f0804ad07e292b36892da016064cbbd6c9031dd9c",
+  "sample_size_bytes": 102251,
   "total_records": 304
 }
