@@ -1,6 +1,6 @@
 # All Restaurants in Palmdale, California, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `291185` |
 | Location | Palmdale |
 | Category | Restaurants |
-| Full dataset size | 304 records |
-| Free sample size | 30 records (9.87%) |
-| Last export | 2026-04-23T12:02:11.049329+00:00 |
+| Full dataset size | 291 records |
+| Free sample size | 29 records (9.97%) |
+| Last export | 2026-04-30T22:16:59.636504+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-palmdale-california-us-sample-291185/releases/download/sample-latest/beamstation_291185_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
